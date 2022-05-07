@@ -22,10 +22,15 @@
     background-color: antiquewhite;
 }
 
+.card-image{
+    max-width: 228px ;
+    max-height: 228px ;
+}
+
 @media screen and (max-width: 500px) {
     .card-image{
-        max-width: 250px;
-        max-height: 250px;
+        max-width: 120px;
+        max-height: 120px;
     }
     
 }

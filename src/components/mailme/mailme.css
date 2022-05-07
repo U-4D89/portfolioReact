@@ -7,7 +7,7 @@
 .mail-bg {
     width: 20px;
     height: 100%;
-    background-color: blueviolet;
+    background-color: #947573;
     position: absolute;
 }
 
@@ -67,7 +67,7 @@
     align-self: center;
 }
 
-#gh, #in { color: blueviolet; font-size: 25px; }
+#gh, #in { color: #947573; font-size: 25px; }
 
 .m-desc { font-weight: 200; }
 
@@ -96,7 +96,7 @@ textarea {
 button {
     border: none;
     padding: 15px;
-    background-color: blueviolet;
+    background-color: #7c5957;
     color: white;
     font-weight: 500;
     cursor: pointer;

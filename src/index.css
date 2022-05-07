@@ -1,6 +1,8 @@
 * {
   color: #0d0d0d;
+  background-color: #eeefe8;
 }
+
 body {
   margin: 0;
   background-color: #F2F2F2;
@@ -11,5 +13,3 @@ body {
 code {
   font-family: 'Comfortaa', cursive;
 }
-
-/*fredoka comfortaa*/

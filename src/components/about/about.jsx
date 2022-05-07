@@ -1,6 +1,6 @@
 import './about.css'
 import am from '../../images/am.png'
-
+/*#947573*/ 
 const About = () => {
     return (
         <div className="about"> 
@@ -15,7 +15,7 @@ const About = () => {
             <div className="ab-right">
                 <h1 className="a-title">About Me</h1>
                 <p className="a-desc">
-                    I was born in Bogotá in the 2001 and in my free times I like to play with my guinea pigs.
+                    I was born in Bogotá in the 2001 and in my free times I like to play with my guinea pigs, bake carrot cakes and play just dance.
                 </p>
                 <p className="a-desc">
                     I started into programming on 2021 with   <b><a href="https://www.fundacion-s.org/" target="_blank" rel='noreferrer'>Fundacion S    </a></b> 

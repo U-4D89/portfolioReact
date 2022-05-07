@@ -1,7 +1,7 @@
 .about{
-    height: 100vh;
-    display: flex;
-    align-self: center;
+  height: 100vh;
+  display: flex;
+  align-self: center;
 }
 
 .ab-left {
@@ -21,7 +21,7 @@
     position: absolute;
     top: 50px;
     left: 50px;
-    background-color: #333;
+    background-color: #947573;
 }
 
 .a-card {
@@ -44,7 +44,7 @@
 }
 
 
- /* 500px or less */
+/* 500px or less */
 @media screen and (max-width:500px) {
     .about{
       flex-direction: column;
